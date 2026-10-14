@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 Estou trabalhando com VS Code<br>- 📚 Estou aprendendo no curso de Programador Full Stack do SENAC<br>- ⚡ No meu tempo livre eu mexo em linguagens de programação como Java Script</p>
+<p data-importer="text" align="left">Sou do Brasil<br><br>- 🔭 Estou trabalhando com VS Code<br>- 📚 Estou aprendendo no curso de Programador Full Stack do SENAC<br>- ⚡ No meu tempo livre eu mexo em linguagens de programação como Java Script</p>
 
 ###
 
